@@ -1,0 +1,2 @@
+File created using the script found in the following thread https://www.reddit.com/r/irc/comments/1i9ytfh/irc_notifications_to_mobile_device_hexchat_step/ . Folled instructions on thread and the first comment on https://www.reddit.com/r/irc/comments/t2febx/get_notified_on_hexchat/ . 
+I have added notifications for Gatekeeper netsplit events and have cleaned and rewritten a majority of the original script for cleaner execution. 
